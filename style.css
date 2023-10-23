@@ -388,4 +388,5 @@ footer {
 	.third_text { padding: 0; width: 90vw; padding-bottom: 10px; padding-top: 10px; }
 	.footer_white { flex-direction: column; }
 	.feedback_left { width: 90vw; }
+	.icons { padding: 10px; }
 }
