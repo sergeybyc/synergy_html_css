@@ -386,4 +386,5 @@ footer {
 	.third_logo_2 { max-width: 20vw; }
 	.third_logo_3 { max-width: 60vw; }
 	.third_text { padding: 0; width: 90vw; padding-bottom: 10px; padding-top: 10px; }
+	.footer_white { flex-direction: column; }
 }
