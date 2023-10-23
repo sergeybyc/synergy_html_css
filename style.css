@@ -1,0 +1,25 @@
+body {
+	background-color: #F0F8FF;
+	color: #00008B;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	-webkit- background-color: #F0F8FF;
+	-moz- background-color: #F0F8FF;
+	-ms- background-color: #F0F8FF;
+	-o- background-color: #F0F8FF;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 16px;
+}
+img {
+	width: 300px;
+}
+a:link {
+	text-decoration: underline;
+	font-size: 16px;
+}
+p {
+	font-size: 16px;
+}
